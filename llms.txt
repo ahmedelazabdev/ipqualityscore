@@ -1,0 +1,19 @@
+# IP Quality Score & Fraud Threat Detector
+> Real-Time IP Reputation, Commercial VPN / Proxy Detection, and ASN Intelligence Lookup
+
+## Project Overview
+IP Quality Score Check is a free, high-speed, 100% client-side security tool developed to inspect any IPv4 or IPv6 address for fraud risk, commercial VPN/proxy tunnels, Tor exit nodes, and Autonomous System (ASN) intelligence with zero telemetry storage.
+
+## Canonical URL
+https://ahmedelazabdev.github.io/ipqualityscore/
+
+## Core Features
+- Automatic real-time public IP detection with custom IPv4/IPv6 address lookup.
+- 0 to 100 Fraud Risk Scoring: Distinguishes residential traffic from datacenter hosting and malicious exit nodes.
+- High-accuracy Proxy, VPN, and Tor exit node threat assessment.
+- Detailed Geolocation & ASN intelligence: ISP name, Autonomous System Number, city, country, and coordinates.
+- Copyable structured threat report for anti-fraud teams and webmasters.
+- 100% Client-Side Privacy: Queries executed directly in-browser with zero backend logging.
+
+## Target Audience
+Cybersecurity analysts, e-commerce webmasters, fraud prevention teams, developers debugging geo-blocking, and privacy-conscious internet users.
